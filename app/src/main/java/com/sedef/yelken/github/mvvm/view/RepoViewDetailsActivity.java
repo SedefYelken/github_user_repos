@@ -1,4 +1,4 @@
-package com.sedef.yelken.github.mvvm;
+package com.sedef.yelken.github.mvvm.view;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -9,6 +9,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.sedef.yelken.github.mvvm.R;
 
 import java.io.BufferedInputStream;
 import java.io.InputStream;

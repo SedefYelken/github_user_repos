@@ -1,4 +1,4 @@
-package com.sedef.yelken.github.mvvm;
+package com.sedef.yelken.github.mvvm.view;
 
 import android.arch.lifecycle.Observer;
 import android.arch.lifecycle.ViewModelProviders;
@@ -13,9 +13,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.sedef.yelken.github.mvvm.R;
 import com.sedef.yelken.github.mvvm.databinding.ActivityMainBinding;
 import com.sedef.yelken.github.mvvm.model.remote.GitHubRepoResponse;
-import com.sedef.yelken.github.mvvm.viewmodel.Adapter.RecyclerViewAdapter;
 import com.sedef.yelken.github.mvvm.viewmodel.RecyclerViewModel;
 
 
