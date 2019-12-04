@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Android-Architecture-Components-MVVM-Retrofit-JAVA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dribbble-MVVM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Expandable-List-View" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVVM-DataBinding-With-LiveData-Login" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVVM-Example-basic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVVM-Recyclerview" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/People-MVVM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Rosie" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SQLite-for-Beginners-2019" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-MVVM-DataBinding-RecyclerViewExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-MVVM-DataBinding-RecyclerViewExample1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-architecture" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-data-binding-recyclerview" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-video-listing-mvp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/archi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/blog-android-clean-coding-approach" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fe-derstakip" vcs="Git" />
+  </component>
+</project>
